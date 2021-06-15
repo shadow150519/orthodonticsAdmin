@@ -1,0 +1,14 @@
+# 1为开发模式，0为生产模式
+developmode: 1
+
+mysql:
+  host: 127.0.0.1 # 数据库ip
+  port: 3306 # 数据库端口号
+  username: root # 数据库名称
+  password: wth150519 # 数据库密码
+  database: orthodonitic_admin # 数据库名
+
+httpserver:
+  address: 127.0.0.1 # 服务器ip地址
+  port: 8080 # 端口
+
